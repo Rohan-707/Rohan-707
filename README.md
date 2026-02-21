@@ -1,10 +1,6 @@
 # Somsankar Chakraborty
 
-✨ I'm a passionate web developer with a keen interest in both frontend and backend technologies.  
-My goal is to build dynamic, scalable, and efficient web applications.
-
-🔭 I’m currently working on React Projects  
-💬 Ask me about Python, Flask  
+I am a passionate developer with strong interests in both web development and machine learning. I enjoy building responsive, scalable web applications while also exploring data-driven solutions using ML techniques. My goal is to combine intelligent systems with modern web technologies to create impactful and efficient real-world applications.
 
 ---
 
