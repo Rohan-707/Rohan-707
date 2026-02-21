@@ -9,8 +9,8 @@ My goal is to build dynamic, scalable, and efficient web applications.
 ---
 
 ## Let's connect:
-[![Instagram](https://www.instagram.com/es_shadow7/)]
-[![LinkedIn](https://www.linkedin.com/in/somsankar-chakraborty-583968232)]
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/es_shadow7/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somsankar-chakraborty-583968232)
 
 ---
 
